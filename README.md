@@ -19,10 +19,6 @@
 
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' height=40> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg' height=40> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' height=40>
 
-### Acquainted with
-
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' height=40> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg' height=40> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg' height=40>
-
 ## Tools
 
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' height=40> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg' height=40> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg' height=40> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' height=40> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg' height=40> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg' height=40> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg' height=40> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' height=40>

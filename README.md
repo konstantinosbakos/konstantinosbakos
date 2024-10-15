@@ -41,4 +41,4 @@
 |--|
 
 #
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konstantinosbakos&layout=compact&theme=dark&background=2B5463)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konstantinosbakos&layout=compact&theme=tokyonight)

@@ -9,8 +9,8 @@
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- links to social media accounts -->
-[1]: https://www.linkedin.com/in/konstantinos-bakos-7ab082202/
-[2]:https://drive.google.com/file/d/1w7IPyRLJc2t59tyoiWs2rpeJxzwx6_x-/view?usp=drive_link
+[1]:https://www.linkedin.com/in/konstantinos-bakos-7ab082202/
+[2]:https://drive.google.com/file/d/1Il8bPzzmKPKK2GNTXOnP8bT0R4tWXH_J/view?usp=drive_link
 
 ## Skill Set
 

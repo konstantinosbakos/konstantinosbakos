@@ -9,14 +9,14 @@
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- links to social media accounts -->
-[1]:https://www.linkedin.com/in/konstantinos-bakos-7ab082202/
-[2]:https://drive.google.com/file/d/1gsNwVY0vUDftcXf_8_1R5GriWLAwv3gT/view?usp=drive_link
+[1]: https://www.linkedin.com/in/konstantinos-bakos-7ab082202/
+[2]:https://drive.google.com/file/d/1w7IPyRLJc2t59tyoiWs2rpeJxzwx6_x-/view?usp=drive_link
 
 ## Skill Set
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/java.svg">
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">|<img title="C" alt="C" width="52.5px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/470140ebab708f2275b853ba3b105dfdcd09c152/programming%20languages/c.svg">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/java.svg">
 |--|--|--|--|
 
 **Libraries and Frameworks**

@@ -10,7 +10,7 @@
 
 <!-- links to social media accounts -->
 [1]: https://www.linkedin.com/in/konstantinos-bakos-7ab082202/
-[2]: https://drive.google.com/file/d/1gsNwVY0vUDftcXf_8_1R5GriWLAwv3gT/view?usp=drive_link
+[2]: https://drive.google.com/file/d/1LQz0lJLeul-EjjpnHmBuLoT_9imD4l0k/view?usp=drive_link
 
 ## Skill Set
 

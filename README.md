@@ -10,7 +10,7 @@
 
 <!-- links to social media accounts -->
 [1]: https://www.linkedin.com/in/konstantinos-bakos-7ab082202/
-[2]: https://drive.google.com/file/d/1mCsBWG7hm-J013JDchuPERlCBI1nrAN_/view?usp=drive_link
+[2]: https://drive.google.com/file/d/1fakuIycYKJBz-uWW6I6ZDYSI7qzNlF7M/view?usp=drive_link
 
 ## Skill Set
 
@@ -48,6 +48,3 @@
 **Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-#
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konstantinosbakos&layout=compact&theme=tokyonight)
